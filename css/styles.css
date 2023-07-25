@@ -1,0 +1,17 @@
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+.contenedor {
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
+.btn{
+    margin: 15px;
+}
+
+footer p{
+    text-align:center
+}
